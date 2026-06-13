@@ -12,14 +12,11 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 <br>
 <br>
 
-
-  - 🔭 I’m currently working on Intership in Fuse Machine Company .
-  - 🌱 I’m currently learning; Django, Node.Js, Next.js, Typescript.
+  - 🔭 I’m currently working on Intership in AETO NET Pvt.Ltd  Company.
+  - 🌱 I’m currently learning; Python Django, Javascript Node.Js, Next.js, .
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, 
   - ⚡ Fun fact: I look like a hobbit,
   
-
-
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
@@ -29,31 +26,7 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 
 
 <br>
-<br>
-
-
-
-### Repository Activity ✔:
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-
-
-### Github Activity ✔:
-
-<a href="https://github.com/RajeshChhetri2004">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshChhetri2004&theme=tokyonight"/>
-  </a>
-
-<a href="https://github.com/RajeshChhetri2004">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajeshChhetri2004&show_icons=true&theme=tokyonight&line_height=27" alt="Rajesh's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
+<br
 
 ### My Projects ✨:
   
