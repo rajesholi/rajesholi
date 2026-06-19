@@ -31,7 +31,7 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 ### My Projects ✨:
   
 <a href="https://rajeshchhetri2004.github.io/PortFolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=PortFolio&theme=tokyonight" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=PortFolio&theme=tokyonigh](https://college-project-three-kappa.vercel.app/)t" />
 </a>
 
 <a href="https://rajeshchhetri2004.github.io/Analog-clock/">
