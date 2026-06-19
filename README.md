@@ -1,9 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
-### Hello 🌎, I'm Rajesh Chhetri
+### Hello Everyone 🌎,
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+and+G00dMornimg..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Fullstack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Rajesh+Chhetri...;Computer+Science+Student...,;Fullstack+Developer...,;Cybersecurity+Learner...,;Ethical+Hackersss...,;Love+to+Code..<3"></a>
 </p>
 
 With over 1 years of experience as a Computer Science, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
